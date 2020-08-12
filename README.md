@@ -1,2 +1,2 @@
 # MEDIAN-FILTER
-![](Input.jpg)
+![](input.jpg)
